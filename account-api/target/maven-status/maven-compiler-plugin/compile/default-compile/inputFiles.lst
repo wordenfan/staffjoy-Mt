@@ -1,0 +1,15 @@
+/Users/fandongyang/Code/java/staffjoy-master/account-api/src/main/java/xyz/staffjoy/account/dto/EmailConfirmation.java
+/Users/fandongyang/Code/java/staffjoy-master/account-api/src/main/java/xyz/staffjoy/account/dto/CreateAccountRequest.java
+/Users/fandongyang/Code/java/staffjoy-master/account-api/src/main/java/xyz/staffjoy/account/dto/ListAccountResponse.java
+/Users/fandongyang/Code/java/staffjoy-master/account-api/src/main/java/xyz/staffjoy/account/dto/PasswordResetRequest.java
+/Users/fandongyang/Code/java/staffjoy-master/account-api/src/main/java/xyz/staffjoy/account/dto/AccountList.java
+/Users/fandongyang/Code/java/staffjoy-master/account-api/src/main/java/xyz/staffjoy/account/AccountConstant.java
+/Users/fandongyang/Code/java/staffjoy-master/account-api/src/main/java/xyz/staffjoy/account/dto/UpdatePasswordRequest.java
+/Users/fandongyang/Code/java/staffjoy-master/account-api/src/main/java/xyz/staffjoy/account/dto/SyncUserRequest.java
+/Users/fandongyang/Code/java/staffjoy-master/account-api/src/main/java/xyz/staffjoy/account/dto/EmailChangeRequest.java
+/Users/fandongyang/Code/java/staffjoy-master/account-api/src/main/java/xyz/staffjoy/account/dto/GenericAccountResponse.java
+/Users/fandongyang/Code/java/staffjoy-master/account-api/src/main/java/xyz/staffjoy/account/dto/TrackEventRequest.java
+/Users/fandongyang/Code/java/staffjoy-master/account-api/src/main/java/xyz/staffjoy/account/dto/AccountDto.java
+/Users/fandongyang/Code/java/staffjoy-master/account-api/src/main/java/xyz/staffjoy/account/dto/VerifyPasswordRequest.java
+/Users/fandongyang/Code/java/staffjoy-master/account-api/src/main/java/xyz/staffjoy/account/client/AccountClient.java
+/Users/fandongyang/Code/java/staffjoy-master/account-api/src/main/java/xyz/staffjoy/account/dto/GetOrCreateRequest.java

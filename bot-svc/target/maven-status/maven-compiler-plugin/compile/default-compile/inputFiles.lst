@@ -1,0 +1,11 @@
+/Users/fandongyang/Code/java/staffjoy-master/bot-svc/src/main/java/xyz/staffjoy/bot/BotApplication.java
+/Users/fandongyang/Code/java/staffjoy-master/bot-svc/src/main/java/xyz/staffjoy/bot/controller/OnBoardingController.java
+/Users/fandongyang/Code/java/staffjoy-master/bot-svc/src/main/java/xyz/staffjoy/bot/controller/AlertController.java
+/Users/fandongyang/Code/java/staffjoy-master/bot-svc/src/main/java/xyz/staffjoy/bot/service/DispatchPreference.java
+/Users/fandongyang/Code/java/staffjoy-master/bot-svc/src/main/java/xyz/staffjoy/bot/props/AppProps.java
+/Users/fandongyang/Code/java/staffjoy-master/bot-svc/src/main/java/xyz/staffjoy/bot/config/AppConfig.java
+/Users/fandongyang/Code/java/staffjoy-master/bot-svc/src/main/java/xyz/staffjoy/bot/controller/GreetingController.java
+/Users/fandongyang/Code/java/staffjoy-master/bot-svc/src/main/java/xyz/staffjoy/bot/service/HelperService.java
+/Users/fandongyang/Code/java/staffjoy-master/bot-svc/src/main/java/xyz/staffjoy/bot/service/AlertService.java
+/Users/fandongyang/Code/java/staffjoy-master/bot-svc/src/main/java/xyz/staffjoy/bot/service/GreetingService.java
+/Users/fandongyang/Code/java/staffjoy-master/bot-svc/src/main/java/xyz/staffjoy/bot/service/OnBoardingService.java

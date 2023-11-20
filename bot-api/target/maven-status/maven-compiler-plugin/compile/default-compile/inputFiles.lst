@@ -1,0 +1,9 @@
+/Users/fandongyang/Code/java/staffjoy-master/bot-api/src/main/java/xyz/staffjoy/bot/BotConstant.java
+/Users/fandongyang/Code/java/staffjoy-master/bot-api/src/main/java/xyz/staffjoy/bot/client/BotClient.java
+/Users/fandongyang/Code/java/staffjoy-master/bot-api/src/main/java/xyz/staffjoy/bot/dto/AlertRemovedShiftsRequest.java
+/Users/fandongyang/Code/java/staffjoy-master/bot-api/src/main/java/xyz/staffjoy/bot/dto/AlertRemovedShiftRequest.java
+/Users/fandongyang/Code/java/staffjoy-master/bot-api/src/main/java/xyz/staffjoy/bot/dto/GreetingRequest.java
+/Users/fandongyang/Code/java/staffjoy-master/bot-api/src/main/java/xyz/staffjoy/bot/dto/AlertChangedShiftRequest.java
+/Users/fandongyang/Code/java/staffjoy-master/bot-api/src/main/java/xyz/staffjoy/bot/dto/AlertNewShiftRequest.java
+/Users/fandongyang/Code/java/staffjoy-master/bot-api/src/main/java/xyz/staffjoy/bot/dto/AlertNewShiftsRequest.java
+/Users/fandongyang/Code/java/staffjoy-master/bot-api/src/main/java/xyz/staffjoy/bot/dto/OnboardWorkerRequest.java

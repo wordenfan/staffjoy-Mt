@@ -1,0 +1,6 @@
+server:
+  port: 8089
+
+logging:
+#  config: /Users/fandongyang/Code/java/staffjoy-master/mail-svc/src/main/resources/logback-spring.xml
+  config: /etc/staffjoy/logback-spring.xml

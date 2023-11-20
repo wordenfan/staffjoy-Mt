@@ -1,0 +1,64 @@
+{
+  "groups": [
+    {
+      "name": "faraday",
+      "type": "xyz.staffjoy.faraday.config.FaradayProperties",
+      "sourceType": "xyz.staffjoy.faraday.config.FaradayProperties"
+    },
+    {
+      "name": "faraday.mappings",
+      "type": "java.util.List",
+      "sourceType": "xyz.staffjoy.faraday.config.FaradayProperties",
+      "sourceMethod": "public List<xyz.staffjoy.faraday.config.MappingProperties> getMappings() "
+    },
+    {
+      "name": "faraday.metrics",
+      "type": "xyz.staffjoy.faraday.config.MetricsProperties",
+      "sourceType": "xyz.staffjoy.faraday.config.FaradayProperties",
+      "sourceMethod": "public xyz.staffjoy.faraday.config.MetricsProperties getMetrics() "
+    },
+    {
+      "name": "faraday.tracing",
+      "type": "xyz.staffjoy.faraday.config.TracingProperties",
+      "sourceType": "xyz.staffjoy.faraday.config.FaradayProperties",
+      "sourceMethod": "public xyz.staffjoy.faraday.config.TracingProperties getTracing() "
+    },
+    {
+      "name": "staffjoy",
+      "type": "xyz.staffjoy.faraday.config.StaffjoyPropreties",
+      "sourceType": "xyz.staffjoy.faraday.config.StaffjoyPropreties"
+    }
+  ],
+  "properties": [
+    {
+      "name": "faraday.enable-programmatic-mapping",
+      "type": "java.lang.Boolean",
+      "description": "Enable programmatic mapping or not, false only in dev environment, in dev we use mapping via configuration file",
+      "sourceType": "xyz.staffjoy.faraday.config.FaradayProperties"
+    },
+    {
+      "name": "faraday.filter-order",
+      "type": "java.lang.Integer",
+      "description": "Faraday servlet filter order.",
+      "sourceType": "xyz.staffjoy.faraday.config.FaradayProperties"
+    },
+    {
+      "name": "faraday.metrics.names-prefix",
+      "type": "java.lang.String",
+      "description": "Global metrics names prefix.",
+      "sourceType": "xyz.staffjoy.faraday.config.MetricsProperties"
+    },
+    {
+      "name": "faraday.tracing.enabled",
+      "type": "java.lang.Boolean",
+      "description": "Flag for enabling and disabling tracing HTTP requests proxying processes.",
+      "sourceType": "xyz.staffjoy.faraday.config.TracingProperties"
+    },
+    {
+      "name": "staffjoy.signing-secret",
+      "type": "java.lang.String",
+      "sourceType": "xyz.staffjoy.faraday.config.StaffjoyPropreties"
+    }
+  ],
+  "hints": []
+}
